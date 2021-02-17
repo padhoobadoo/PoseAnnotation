@@ -19,8 +19,10 @@
 
 #Keyboard Shortcuts
 {
-'space': 'skip joint',
+'left click': 'annotate joint',
+'right click': 'undo annotation',
 'backspace': 'undo annotation',
+'space': 'skip joint',
 'enter': 'next image',
 'p': 'previous image'
 'esc': 'exit program'
