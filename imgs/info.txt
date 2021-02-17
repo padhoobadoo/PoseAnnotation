@@ -1,0 +1,1 @@
+# Place the images you want to annotate in this directory
