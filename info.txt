@@ -16,3 +16,12 @@
 13: 'left_elbow',
 14: 'left_wrist'
 }
+
+#Keyboard Shortcuts
+{
+'space': 'skip joint',
+'backspace': 'undo annotation',
+'enter': 'next image',
+'p': 'previous image'
+'esc': 'exit program'
+}
