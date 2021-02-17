@@ -1,0 +1,18 @@
+#key point map
+{
+0: 'nose',
+1: 'right_toe',
+2: 'right_ankle',
+3: 'right_knee',
+4: 'right_hip',
+5: 'right_shoulder',
+6: 'right_elbow',
+7: 'right_wrist',
+8: 'left_toe',
+9: 'left_ankle',
+10: 'left_knee',
+11: 'left_hip',
+12: 'left_shoulder',
+13: 'left_elbow',
+14: 'left_wrist'
+}
