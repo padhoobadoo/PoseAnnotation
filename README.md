@@ -1,5 +1,7 @@
 # PoseAnnotation
 
+Free tool to create your custom HUMAN POSE ANNOTATION data sets for Machine Learning/Computer Vision Applications!
+
 ## Set Up and Installing Requirements
 git clone this repo to your local machine
 
@@ -51,3 +53,9 @@ Press "escape" to exit program
 
 Create functionality to return to previous image  
 Allow user to skip occluded joints
+
+## Support Future Projects  
+If this project helped your research or other work in any way, consider donating to my Patreon to support other ongoing Computer Vision/Machine Learning/Data Science projects. 
+
+Head over to:  
+Patreon.com/supermanecuavoley
