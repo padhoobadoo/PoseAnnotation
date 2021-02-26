@@ -30,7 +30,7 @@ def mouse_click(event, x, y, flags, param):
         radius = 7
 
         # Blue color in BGR
-        color = (255, 0, 0)
+        color = (0, 0, 255)
 
         # Line thickness of 2 px
         thickness = -1
@@ -82,7 +82,7 @@ while i > 0:
         # Resize image 
         #img = cv2.resize(img, (960, 550))
         orig_img = cv2.resize(orig_img, (0,0), fx=0.3, fy=0.3)
-        global cache
+        
         cache = orig_img.copy()
         
         # show image and set Mouse Callback
@@ -114,7 +114,7 @@ while i > 0:
             radius = 7
 
             # Blue color in BGR
-            color = (255, 0, 0)
+            color = (0, 0, 255)
 
             # Line thickness of 2 px
             thickness = -1
