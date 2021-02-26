@@ -41,7 +41,7 @@ Left Click on image to add joint annotation
 
 Press "e" to undo previous joint annotation
 
-Press "enter" to save results and go to next image -- Results are saved RESULTS Directory
+Press "enter" to save results and go to next image -- Results are saved to the RESULTS Directory
 
 Press "escape" to exit program
 
