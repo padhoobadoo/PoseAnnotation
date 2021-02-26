@@ -43,9 +43,9 @@ Press "enter" to save results and go to next image
 
 Press "escape" to exit program
 
-<p align="center">
+<div align="center">
 ![Lu sitting looking at you](https://github.com/moonbeam5115/PoseAnnotation/blob/main/imgs/Lu_sitting_annotated.png)
-</p>
+</div>
 
 ## Future Functionality
 
