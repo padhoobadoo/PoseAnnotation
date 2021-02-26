@@ -17,12 +17,12 @@ Set up virtual environment:
 conda create --prefix ./env python=3.7
 ```
 
-activate conda environment:  
+Activate conda environment:  
 ```
 conda activate ./env
 ```
 
-install requirements: 
+Install requirements: 
 ```
 pip3 install -r requirements.txt
 ```
@@ -30,7 +30,7 @@ pip3 install -r requirements.txt
 ## Getting Started
 Place images you wish to annotate inside the imgs folder
 
-start program:  
+Start program:  
 ```
 python3 main.py
 ```
