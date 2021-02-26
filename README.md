@@ -30,7 +30,7 @@ pip3 install -r requirements.txt
 ```
 
 ## Getting Started
-Place images you wish to annotate inside the imgs folder
+Place images you wish to annotate inside the imgs folder  
 
 Start program:  
 ```
@@ -41,7 +41,7 @@ Left Click on image to add joint annotation
 
 Press "e" to undo previous joint annotation
 
-Press "enter" to save results and go to next image
+Press "enter" to save results and go to next image -- Results are saved RESULTS Directory
 
 Press "escape" to exit program
 
