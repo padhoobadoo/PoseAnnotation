@@ -30,8 +30,10 @@ pip3 install -r requirements.txt
 ## Getting Started
 Place images you wish to annotate inside the imgs folder
 
-start program:
+start program:  
+```
 python3 main.py
+```
 
 Left Click on image to add joint annotation
 
@@ -43,5 +45,5 @@ Press "escape" to exit program
 
 ## Future Functionality
 
-Create functionality to return to previous image
+Create functionality to return to previous image  
 Allow user to skip occluded joints
