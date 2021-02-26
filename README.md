@@ -3,17 +3,29 @@
 ## Set Up and Installing Requirements
 git clone this repo to your local machine
 
+```
+git clone https://github.com/moonbeam5115/PoseAnnotation.git
+```
+
+```
 cd PoseAnnotation
+```
 
-Set up virtual environment:
-(Conda)
+Set up virtual environment:  
+(Conda)  
+```
 conda create --prefix ./env python=3.7
+```
 
-activate conda environment:
+activate conda environment:  
+```
 conda activate ./env
+```
 
-install requirements: pip3 install -r requirements.txt
-
+install requirements: 
+```
+pip3 install -r requirements.txt
+```
 
 ## Getting Started
 Place images you wish to annotate inside the imgs folder
