@@ -34,7 +34,7 @@ Place images you wish to annotate inside the imgs folder
 
 Start program:  
 ```
-python3 main.py
+python main.py
 ```
 
 Left Click on image to add joint annotation
